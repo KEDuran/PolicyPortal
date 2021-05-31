@@ -2,14 +2,14 @@
 
 Repo is for a demo policy portal that can be used by clients to view insurance policies.
 
-# Project Purpose
+## Project Purpose
 
-# Reference Links
+## Reference Links
 
-# User Story
+## User Story
 
-# Application MVP
+## Application MVP
 
-# Website Wireframes
+## Website Wireframes
 
-# Installation / Technology
+## Installation / Technology
