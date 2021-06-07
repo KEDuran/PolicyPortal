@@ -23,6 +23,14 @@ SO THAT I can quickly access all my policy and claims data
 
 ## Application MVP
 
+- The user can **register** and **login** to the platform using **authentication software**.
+- The user can see their **custom profile**.
+- The user's policy portal must provide **applicable policy and claims information**.
+- The user's policy portal **had a FAQ section**.
+- The user can **submit a new claim**.
+- The user can **submit email messages from the portal** regarding their policy and/or claim.
+- The user can **logout** .
+
 ## Website Wireframes
 
 ## Installation / Technology
