@@ -23,6 +23,8 @@ SO THAT I can quickly access all my policy and claims data
 
 ## Application MVP
 
+The content below lists all the MVP features that the first iteration of this application must have.
+
 - The user can **register** and **login** to the platform using **authentication software**.
 - The user can see their **custom profile**.
 - The user's policy portal must provide **applicable policy and claims information**.
