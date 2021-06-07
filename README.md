@@ -35,4 +35,10 @@ The content below lists all the MVP features that the first iteration of this ap
 
 ## Website Wireframes
 
+🎨 All website wireframes will be included in this section once available.
+
 ## Installation / Technology
+
+This application will be developed using React - [click here to access React documentation](https://reactjs.org/docs/getting-started.html).
+
+Additional installation and technology instructional material will be updated throughout the development of this web application.
